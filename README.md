@@ -1,4 +1,4 @@
-Shopify App
+Route Shopify App
 ===========
 [![Version][gem]][gem_url] [![Build Status](https://travis-ci.org/Shopify/shopify_app.png)](https://travis-ci.org/Shopify/shopify_app)
 

@@ -1,7 +1,7 @@
 module ShopifyApp
   class Configuration
 
-    # Shopify App settings. These values should match the configuration
+    # Route settings. These values should match the configuration
     # for the app in your Shopify Partners page. Change your settings in
     # `config/initializers/shopify_app.rb`
     attr_accessor :application_name
